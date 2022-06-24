@@ -1,0 +1,14 @@
+
+  @media(min-width:786px){
+    .samesize{
+        width: 50rem;
+    }
+
+
+    .card {
+        max-height: 20rem;
+    }
+    .text-scroll {
+        overflow-y: scroll;
+    }
+  }
